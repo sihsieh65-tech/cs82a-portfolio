@@ -4,3 +4,6 @@ I am a student in cs82a which is an intro to data science class. I have no forma
 
 9/11/2026
 Module 2: Python foundations added
+
+9/12/2026
+Module 2: updated lab 1 to eliminate non-relevant testing and adding subtitle to show all the part of the assignment more clearly.
