@@ -10,3 +10,6 @@ Module 2: updated lab 1 to eliminate non-relevant testing and adding subtitle to
 
 9/19/2026
 Module 3: added
+
+9/26/2026
+Module 4: added
