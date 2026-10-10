@@ -15,7 +15,8 @@ Module 3: added
 Module 4: added
 Reloaded lab 2 to account for an additional note
 
-
+10/3/2026
+Module 5: added
 
 10/9/2026
 Module 6: added
