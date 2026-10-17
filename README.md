@@ -21,3 +21,6 @@ Module 5: added
 10/9/2026
 Module 6: added
 Reloaded lab 2 as there was a missed input in the original file
+
+10/17/2026
+Module7: added
