@@ -24,3 +24,7 @@ Reloaded lab 2 as there was a missed input in the original file
 
 10/17/2026
 Module7: added
+Reuploaded Module7 to fix a typo in the directory name
+
+10/17/2026
+Module8: added
