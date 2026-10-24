@@ -5,6 +5,8 @@
 
 **Tools: Jupyter, Python, pandas, matplotlib, seaborn, SQL, scikit-learn, Colab
 
+========================================================================
+
 **Contents
 
 Final Project: Analysis of Netflix Subscriber Data using Decision Trees to Determine the Important Predictors of Customer Churn 
@@ -25,6 +27,7 @@ Module8: Working with AI Tools- Google Colab and Google Gemini used
 
 Module9: Cloud Computing
 
+=========================================================================
 
 
 
