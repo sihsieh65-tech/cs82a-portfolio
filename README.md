@@ -1,11 +1,11 @@
 # cs82a-portfolio
-A repository for cs82a projects for Fall of 2026
+**A repository for cs82a projects for Fall of 2026
 
-I am a student in cs82a which is an intro to data science class. I have no formal computer science training and am mostly self-taught to this point. 
+**I am a student in cs82a which is an intro to data science class. I have no formal computer science training and am mostly self-taught to this point. 
 
-Tools: Jupyter, Python, pandas, matplotlib, seaborn, SQL, scikit-learn, Colab
+**Tools: Jupyter, Python, pandas, matplotlib, seaborn, SQL, scikit-learn, Colab
 
-Contents
+**Contents
 
 Final Project: Analysis of Netflix Subscriber Data using Decision Trees to Determine the Important Predictors of Customer Churn 
 
@@ -26,7 +26,7 @@ Module8: Working with AI Tools- Google Colab and Google Gemini used
 Module9: Cloud Computing
 
 
-Log
+**Log
 9/11/2026
 Module 2: Python foundations added
 
