@@ -6,14 +6,23 @@ I am a student in cs82a which is an intro to data science class. I have no forma
 Tools: Jupyter, Python, pandas, matplotlib, seaborn, SQL, scikit-learn, Colab
 
 Contents
+
 Final Project: Analysis of Netflix Subscriber Data using Decision Trees to Determine the Important Predictors of Customer Churn 
+
 Module2: Basics of Using Python
+
 Module3: Data Cleaning Exercises
+
 Module4: Statistics Applications
+
 Module5: Visualizations in Python
+
 Module6: SQL and Database Exercises
+
 Module7: Machine Learning: Regression, kNN, and Decisions Trees
+
 Module8: Working with AI Tools- Google Colab and Google Gemini used 
+
 Module9: Cloud Computing
 
 
