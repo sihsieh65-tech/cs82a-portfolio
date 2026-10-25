@@ -61,3 +61,7 @@ Module8: added
 
 10/23/2026
 Module9: added
+
+10/24/2026
+Final Project: added
+Updated README to be more descriptive and organized.
