@@ -1,1 +1,29 @@
+**FINAL PROJECT for cs82a Intro to Data Science Fall 2026 at Santa Monica College
+
+
+**Description:
+I am planning to use a kaggle dataset on netflix customers and their churn status. The data can be found here: https://www.kaggle.com/datasets/zeyadmohamed26/netflix-customer-churn-and-engagement-analytics/data. 
+I plan to answer the question: what features are the most important when predicting if a customer will churn (cancel the subscription). I plan to focus on the numerical features as sklearn does not work with string data.
+
+
+**The Data:
+The dataset is available on kaggle and represents 5000 rows of data with no missing data. Including the customer ID number there are 14 columns in the table containing a combination of string, float, and integer data types. 
+
+
+**My Process:
+My plan is to select mostly the numerical data columns (float or integer) to train a Decision Tree model to build an effective predictive model. The reason for this is that I am using the Decision Tree packages in Scikit-Learn which do not work with string data types.
+However, in order to improve my skillsets and out of curiosity, I will also include two additional columns by converting their string data into numbers as stand-ins for classifications. These two addtional features are: gender and geographical region. Thus I tested 8 total features.
+Once I have identified four of the top features, I then tested my identification by re-training the model using only the top 4 features and compared my training and test scores of that top 4 model to the model built with all four features. To further test if I correctly identified the best features I then also retrain the model using the bottom 4 features and compared their train and test scores to the the others. 
+
+
+**Tools used:
+python, pandas, matplotlib, scikit-learn
+
+
+**Ways to improve the study: 
+Ideally, I would test my model against another, comparable dataset to see if the same features arise as the most important. If I consistently observe the same results then we can feel more confident that the most important features have been identified. I would also continue to increase the depth until the score stops improving, though this is unlikely to change the final result. 
+Lastly, I would have loved to do this study with something other than sklearn as it largely limits me to using only numerical columns. I would have preferred being able to use the categorical column as well. 
+
+========================================================================================
+**Result Summary
 
