@@ -29,9 +29,9 @@ Module9: Cloud Computing
 
 =========================================================================
 
-
-
 **Log
+
+
 9/11/2026
 Module 2: Python foundations added
 
